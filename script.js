@@ -139,6 +139,6 @@ function restorePreferences() {
   showMessage("Welcome back! Your saved preferences were restored.");
 }
 
-// Start the page
+
 renderCollection();
 restorePreferences();
